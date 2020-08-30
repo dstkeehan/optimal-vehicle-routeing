@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/Vehicle_routing_problem
 
 This solver and plotter requires csv files containing; The coordinates of each delivery location, the travel time from each location to each other location, and the amount each ocation needs delivered. Example files included are 'FoodstuffLocations.csv', 'FoodstuffTravelTimes.csv' and 'OurDemand.csv' respectively.
 
-Here is an example of its application to the csv files included in this repository, obtained by running the VRPSimulatedAnnealing file:
+Here is an example of its application to the csv files included in this repository, obtained by running the VRPSimulatedAnnealing file (the time in seconds is the objective for minimisation, 7 delivery hours are saved!):
 
 ![What is this](Networks.png)
 
