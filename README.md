@@ -10,7 +10,7 @@ Here is an example of its application to the csv files included in this reposito
 
 ![improved solution](Networks.png)
 
-Each contiguous arc of colored arrows reprsents a route taken by a vehcicle, and each node represents a location to visit. Note that the improved solution shows a distinct petalling pattern around the origin of each vehicle, indicative of a good solution with little crossover. In this example the objective for minimisation is the delivery time in seconds since drivers are paid hourly---seven delivery hours are saved after optimisation!)
+Each contiguous arc of colored arrows reprsents a route taken by a vehcicle, and each node represents a location to visit. Note that the improved solution shows a distinct petalling pattern around the origin of each vehicle, indicative of a good solution with little crossover. In this example the objective for minimisation is the delivery time since drivers are paid hourly---seven delivery hours are saved after optimisation!)
 
 ## Authors and Acknowledgements
 Created by Dominic Keehan in 2019.
