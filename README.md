@@ -13,7 +13,7 @@ Here is an example of its application to the csv files included in this reposito
 Note that the improved solution shows a distinct petalling pattern around the origin of each vehicle, indicative of a good solution with little cross-over.
 
 ## Authors and Acknowledgements
-Created by Dominic Keehan.
+Created by Dominic Keehan in 2019.
 
 Geographical data exported from the [OpenStreetMap](https://www.openstreetmap.org/) API.
 
