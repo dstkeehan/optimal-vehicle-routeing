@@ -1,5 +1,5 @@
 # optimal-vehicle-routeing with simulated annealing
-The [vehicle routeing problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem) deals with determining the least cost plan for a fleet of vehicles to visit a number of locations. Due to the number of routeing plans possible this problem is highly comibntorial in nature and a classic example of an operations research problem where heuristics are neccesary.
+The [vehicle routeing problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem) deals with determining the least cost plan for a fleet of vehicles to visit a number of locations. Due to the number of routeing plans possible this problem is comibinatorial in nature and a classic example of an operations research problem where heuristics are neccesary.
 
 This repository contains an implemenation of and visualisation tools for solving the vehicle routeing problem using a [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) heuristic. The data in this repository is in the context of a fleet of trucks delivering goods to a range of supermarkets around the wider Auckland area.
 
