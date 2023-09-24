@@ -6,11 +6,11 @@ This repository contains an implemenation of and visualisation tools for solving
 
 This solver and plotter require csv files containing: the coordinates of each delivery location, the travel time from each location to each other location, and the amount each location needs delivered. Example files included are 'FoodstuffLocations.csv', 'FoodstuffTravelTimes.csv', and 'OurDemand.csv', respectively.
 
-Here is an example of its application to the csv files included in this repository, obtained by running the VRPSimulatedAnnealing file (the delivery time in seconds is the objective for minimisation, 7 delivery hours are saved!):
+Here is an example of its application to the csv files included in this repository, obtained by running the VRPSimulatedAnnealing file (in this example the objective for minimisation is the delivery time in seconds since drivers are paid hourly---seven delivery hours are saved after optimisation!):
 
 ![improved solution](Networks.png)
 
-Note that the improved solution shows a distinct petalling pattern around the origin of each vehicle, indicative of a good solution with little cross-over.
+Each contiguous arc of colored arrows reprsents a route taking by a vehcicle, and each node represents a location to visit. Note that the improved solution shows a distinct petalling pattern around the origin of each vehicle, indicative of a good solution with little crossover.
 
 ## Authors and Acknowledgements
 Created by Dominic Keehan in 2019.
